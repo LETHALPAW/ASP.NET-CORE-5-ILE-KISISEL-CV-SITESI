@@ -1,7 +1,7 @@
 
 Asp.Net Core 5.0 ile Adım Adım Web Geliştirme 
 
-[![Kurs Linki](https://img.shields.io/badge/Kurs%20Linki%20-izlemek%20için%20tıklayın-purple)](https://www.udemy.com/course/aspnet-core-5-ile-adim-adim-web-gelistirme/)
+
 
 ## Proje Hakkında: 
 Bu proje, ASP.Net Core 5.0 kullanarak Entity Framework Core ve N Tier Architecture mimarisi ile kodlanmıştır. Codefirst yaklaşımı ile SQL Server veritabanını destekleyen bir Portfolio sitesi projesidir. Default, Yazar ve Admin panellerine sahiptir.
@@ -20,6 +20,8 @@ Bu proje, ASP.Net Core 5.0 kullanarak Entity Framework Core ve N Tier Architectu
 * Kimlik doğrulama ve yetkilendirme (Identity) sisteminin entegrasyonu
 * Rol tabanlı yetkilendirme işlemleri
 
+
+## Proje Görselleri:
 ![20](https://github.com/LETHALPAW/ASP.NET-CORE-5-ILE-KISISEL-CV-SITESI/assets/79024732/0869e7e2-132d-423b-908a-cb4e548e89a2)
 ![19](https://github.com/LETHALPAW/ASP.NET-CORE-5-ILE-KISISEL-CV-SITESI/assets/79024732/aba382d8-88b6-4252-8831-573ad76401fe)
 ![18](https://github.com/LETHALPAW/ASP.NET-CORE-5-ILE-KISISEL-CV-SITESI/assets/79024732/61a9caf5-74ad-4745-9561-f24874c541c9)
